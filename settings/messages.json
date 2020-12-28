@@ -1,0 +1,14 @@
+{
+  "addedQueue": "✅ Added to the queue.",
+  "noVC": "You need to be in a Voice Channel!",
+  "noConnect": "I dont have permissions to connect to this Voice Channel!",
+  "noSpeak": "I dont have permissions to speak to this Voice Channel!",
+  "noResponse": "No or Invalid response was provided.",
+  "noResults": "I was unable to find any songs.",
+  "noPlaying": "There is nothing playing.",
+  "Skipped": "Skipped the song successfully.",
+  "nowPlaying": "Now playing",
+  "Stopped": "Stop the player & Cleared the queue.",
+  "Resumed": "▶  Resumed the music for you!",
+  "Paused": "⏸️ Music has been paused!"
+}
